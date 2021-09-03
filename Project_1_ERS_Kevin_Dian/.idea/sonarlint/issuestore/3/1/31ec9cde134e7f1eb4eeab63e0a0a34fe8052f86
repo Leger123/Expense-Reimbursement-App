@@ -1,0 +1,13 @@
+
+V
+java:S24414";Make "Users" serializable or don't store it in the session.(·¶³“ıÿÿÿÿ
+l
+java:S1128	"ORemove this unused import 'com.sun.xml.internal.ws.client.sei.ResponseBuilder'.(µŞÖÇ8İôÿ¡¸/
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(…äàÆ
+n
+java:S11924"LDefine a constant instead of duplicating this literal "currentUser" 3 times.(·¶³“ıÿÿÿÿ8½û»¢¸/
+s
+java:S1192("QDefine a constant instead of duplicating this literal "application/json" 3 times.(›ı’Àøÿÿÿÿ8íÈù¡¸/
+K
+java:S1191	"5Use classes from the Java API instead of Sun classes.(µŞÖÇ

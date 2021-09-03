@@ -1,0 +1,24 @@
+
+?
+java:S1172("*Remove this unused method parameter "req".(à»ób
+V
+java:S1128"4Remove this unused import 'dao.FinancialManagerDao'.(äëğÿüÿÿÿÿ8ô™ê¡¸/
+Z
+java:S1128"8Remove this unused import 'dao.FinancialManagerDaoImpl'.(®Ü›Èùÿÿÿÿ8ô™ê¡¸/
+F
+java:S1128	")Remove this unused import 'models.Users'.(ºÅÖè8ô™ê¡¸/
+W
+java:S1128
+"5Remove this unused import 'services.EmployeeService'.(•Ãéûùÿÿÿÿ8ô™ê¡¸/
+[
+java:S1128"9Remove this unused import 'services.EmployeeServiceImpl'.(ÛµŞ¼úÿÿÿÿ8ô™ê¡¸/
+l
+java:S1128"ORemove this unused import 'com.sun.xml.internal.ws.client.sei.ResponseBuilder'.(µŞÖÇ8ô™ê¡¸/
+]
+java:S1128";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ8ô™ê¡¸/
+X
+java:S1128";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8ô™ê¡¸/
+l
+java:S1192)"QDefine a constant instead of duplicating this literal "application/json" 3 times.(›ı’Àøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(µŞÖÇ

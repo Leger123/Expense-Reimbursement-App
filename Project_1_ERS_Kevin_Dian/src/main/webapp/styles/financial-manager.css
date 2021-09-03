@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(61, 146, 195);
+}
+
+.all-lists{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.all-request-card{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+
+    font-weight: bold;
+    font-size: 13px;
+    border-radius: 8px;
+
+    box-shadow: 2px 2px 8px rgb(73, 73, 73);
+
+}
+
+#approve-btn,#deny-btn{
+    margin-bottom: 3px;
+}
+
+#status-id{
+    color: blue;
+}
+
+#all-btn{
+    background-color: rgb(235, 112, 12);
+    font-weight: bold;
+}
+
+#pending-btn{
+    background-color: rgb(235, 112, 12);
+    font-weight: bold;
+}
+
+#approved-btn{
+    background-color: rgb(235, 112, 12);
+    font-weight: bold;
+}
+
+#denied-btn{
+    background-color: rgb(235, 112, 12);
+    font-weight: bold;
+}
+

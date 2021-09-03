@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERS-Employee-Page-Create-Ticket</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="../styles/employee-create-ticket.css">
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            Electronic Reimbursement Service App - Employee Page: Create Reimbursement Request
+          </a>
+
+          <button class="btn btn-outline-primary" id="main-btn">Main Page</button>
+        </div>
+        
+      </nav>
+      
+      <div class="create-ticket-container">
+        <div id="create-ticket-message"></div>
+        <form id="create-ticket-form">
+            <div>
+                <input type="number" id="amount" placeholder="Amonut" required/>
+            </div>
+            <div>
+                <input type="text" id="description" placeholder="Description" required/>
+            </div>
+            <select class="form-select" id="status-type" aria-label="Default select example" required>
+                <option selected>Select Reimbursement Type</option>
+                <option value="1">Lodging</option>
+                <option value="2">Travel</option>
+                <option value="3">Food</option>
+                <option value="4">Other</option>
+              </select>
+            <div>
+                <button id="create-ticket-btn">Create Request</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="../scripts/employee-create-ticket.js"></script>
+    <script src="../scripts/globals.js"></script>
+    
+</body>
+</html>

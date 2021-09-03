@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERS-Employee-Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="../styles/employee.css">
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            Electronic Reimbursement Service App - Employee Page: List of Pending Requests
+          </a>
+
+          <button class="btn btn-outline-danger" id="logout-btn">Logout</button>
+        </div>
+        
+      </nav>
+
+      <div class="employee-home-container"></div>
+        <button id="past-btn">View Past Reimbursement Requests</button>
+        <button id="create-btn">Create New Reimbursement Request</button>
+
+      </div>
+      
+      <div class="container">
+        <div class="pending-lists" id="pending-container"></div>
+    </div>
+      
+      <script src="../scripts/employee.js"></script>
+    <script src="../scripts/globals.js"></script>
+</body>
+</html>

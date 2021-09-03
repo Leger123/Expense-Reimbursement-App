@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(61, 146, 195);
+}
+
+.create-ticket-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#create-ticket-form{
+    width: 500px;
+    background-color: rgb(214, 214, 214);
+    box-shadow: 2px 2px 8px rgb(98, 98, 98);
+    border-radius: 6px;
+    padding: 15px;
+}
+
+#create-ticket-form div{
+    margin: 10px;
+}
+
+#ammount, #description, #create-ticket-btn{
+    width: 100%;
+    padding: 5px;
+}
+
+#create-ticket-btn{
+    border: none;
+    background-color: rgb(41, 124, 233);
+    color: white;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+#create-ticket-btn:hover{
+    background-color: green;
+    transition: 400ms;
+}
+
+#login-message{
+    margin-top: 150px;
+    margin-bottom: 20px;
+    color: black;
+    padding: 4px;
+    border-radius: 6px;
+}

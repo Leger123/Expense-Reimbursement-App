@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óÂƒ÷úÿÿÿÿ
+f	java:S1283"LEnd this switch case with an unconditional break, return or throw statement.(™‡ƒ¾øÿÿÿÿ
+<	java:S131""Add a default case to this switch.(­®ïýþÿÿÿÿ
+<	java:S131$""Add a default case to this switch.(ÍÏ›õûÿÿÿÿ
+<	java:S1314""Add a default case to this switch.(ÍÏ›õûÿÿÿÿ
+Y
+java:S1128"7Remove this unused import 'javax.jws.soap.SOAPBinding'.(î¶âÑûÿÿÿÿ8¤‹Ñ¿¸/
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¥ŽÑ
+f
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(ÍÏ›õûÿÿÿÿ
+f
+java:S13014"KReplace this "switch" statement by "if" statements to increase readability.(ÍÏ›õûÿÿÿÿ

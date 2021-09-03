@@ -1,0 +1,13 @@
+
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+R	java:S125Ž"<This block of commented-out lines of code should be removed.(Ú¥·…
+R	java:S125º"<This block of commented-out lines of code should be removed.(‹úÈ®
+L
+java:S1128"1Remove this unused import 'models.Reimbursement'.(’©÷Ñþÿÿÿÿ
+e
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½
+e
+java:S2095S"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½
+e
+java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖÐ½
