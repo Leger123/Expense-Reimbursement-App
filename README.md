@@ -27,14 +27,22 @@ To-do list:
 - Allow Financial Manager to add new account.
 
 Getting Started:
-* 
-*
-*
-
-Be sure to include BOTH Windows and Unix command
-Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+* Make sure you have IntelliJ and Visual Studio Code
+* Copy the the GitHub link url and paste it on the address bar.
+* Next, click on the clone on the top right corner, and copy the HTTPS link.
+* Once you have done this, then select the folder in your computer where you want the repository to be.
+* Use Git Bash to use the "git.clone" command, with the link you copied from the GitHub repository being put after the git.clone command.
+* Open your IntelliJ and open up the "Project_1_ERS_Kevin_Dian" project folder.
+* Inside the IntelliJ, make sure you set up the SmartTomcat configuration int as shown in PNG file named "Project_1_Instructions_1".
+* Be sure to make sure you have the environment variables up in IntelliJ as well (DATABASE_USERNAME, DATABASE_PASSWORD, DATABASE_URI).
+* Login with these credentials to access the employee page (username: hothead, password: lemon555).
+* Login with these credentials to access the employee page (username: money, password: stock).
+* Refer to PNG files named "Project_1_Instructions_2" and "Project_1_Instructions_3" to see how the employee page and financial manager page should look respectively.
 
 All the code required to get started
 Images of what it should look like
+
 Usage
-Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+* In the employee page you should see
+
+![Project_1_Instructions_1](https://user-images.githubusercontent.com/90068310/134623844-4e0f2f5f-877e-489b-a2d5-7b39a61c52d1.PNG)
