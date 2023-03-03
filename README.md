@@ -1,6 +1,6 @@
 # Expense Reimbursement App
 
-## Author:
+## Developer:
 Kevin Dian
 
 ## Project Description:
