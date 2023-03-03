@@ -1,32 +1,35 @@
-Expense Reimbursement App
+# Expense Reimbursement App
 
-Project Description:
+## Author:
+Kevin Dian
+
+## Project Description:
 The Expense Reimbursement App is created to give employees the ability to a request reimbursement for a payment they have made, view their pending requests, or past requests. 
 From there the financial managers will use their judgement to see if the reimbursement request should be approved or denied. The managers will also be able to view all of the
 employee reimbursement requests that have been sent, or they can filter them by their condition. 
 
-Technologies Used:
+## Technologies Used:
 Java
 PostgreSQL
 Javascript
 CSS
 AWS RDS
 
-Features of the project:
+## Features of the project:
 - User can login as employee or financial manager.
 - Employees can make a new reimbursement request.
 - Employees can view all their current pending requests or past requests.
 - Financial managers can view all reimbursement requests.
 - Financial Managers can view reimburse requests through the condition of the requests.
 
-To-do list:
+## To-do list:
 - Improve the CSS.
 - Add Encryption.
 - Add Email Response.
 - Add Receipt for User.
 - Allow Financial Manager to add new account.
 
-Getting Started:
+## Getting Started:
 * Make sure you have IntelliJ, Visual Studio Code, and DBeaver.
 * Copy the the GitHub link url and paste it on the address bar.
 * Next, click on the clone on the top right corner, and copy the HTTPS link.
